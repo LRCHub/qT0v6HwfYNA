@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "光の空のクオリア",
+  "base_artist": "Cyua",
+  "createdAt": "2026-03-14T12:23:40.637607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "光の空のクオリア",
+      "artist": "Cyua",
+      "has_synced": false,
+      "path": "select/01_光の空のクオリア_Cyua.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "光の空のクオリア",
+      "artist": "Cyua",
+      "has_synced": true,
+      "path": "select/02_光の空のクオリア_Cyua.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "光の空のクオリア",
+      "artist": "V．A．",
+      "has_synced": true,
+      "path": "select/03_光の空のクオリア_V.A..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "光の空のクオリア",
+      "artist": "Cyua(from BETTA FLASH)",
+      "has_synced": false,
+      "path": "select/04_光の空のクオリア_Cyua(from_BETTA_FLASH).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "光の空のクオリア",
+      "artist": "Cyua",
+      "has_synced": false,
+      "path": "select/pl_01_光の空のクオリア_Cyua.txt"
+    }
+  ]
+}
